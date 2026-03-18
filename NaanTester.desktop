@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Naan Tester
+Comment=Launch Naan Testing Python GUIs
+Exec=/home/itcfoods_collablens/Desktop/NaanTester.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
